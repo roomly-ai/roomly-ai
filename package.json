@@ -1,0 +1,25 @@
+{
+  "name": "roomly-ai",
+  "version": "1.0.0",
+  "description": "Description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roomly-ai/roomly-ai.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roomly-ai/roomly-ai/issues"
+  },
+  "homepage": "https://github.com/roomly-ai/roomly-ai#readme",
+  "dependencies": {
+    "express": "^4.21.1",
+    "pg": "^8.13.1"
+  }
+}
